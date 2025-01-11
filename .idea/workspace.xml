@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_codingtest_java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_10_11003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_11_1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_12_17298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_13_2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_14_11286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_15_2750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_1_11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_2_1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_3_11659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_3_11659_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_4_11660.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_5_10986.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_6_2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_7_1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_8_1253.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_9_12891.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qsWNYHHbfZG6XVEZejGr4tnbHc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Debug",
+    "Application.Main10986.executor": "Run",
+    "Application.Main11659.executor": "Run",
+    "Application.Main11659_2.executor": "Run",
+    "Application.Main11660.executor": "Run",
+    "Application.Main11720.executor": "Run",
+    "Application.Main1546.executor": "Run",
+    "Application.Main_10_11003.executor": "Run",
+    "Application.Main_11_1874.executor": "Run",
+    "Application.Main_12_17298.executor": "Run",
+    "Application.Main_13_2164.executor": "Run",
+    "Application.Main_14_11286.executor": "Run",
+    "Application.Main_6_2018.executor": "Run",
+    "Application.Main_7_1940.executor": "Run",
+    "Application.Main_8_1253.executor": "Run",
+    "Application.Main_9_12891.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/flg989/codingtest/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main_14_11286">
+    <configuration name="Main_10_11003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_10_11003" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_11_1874" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_11_1874" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_12_17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_12_17298" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_13_2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_13_2164" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_14_11286" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_14_11286" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_14_11286" />
+        <item itemvalue="Application.Main_13_2164" />
+        <item itemvalue="Application.Main_12_17298" />
+        <item itemvalue="Application.Main_11_1874" />
+        <item itemvalue="Application.Main_10_11003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="" />
+      <created>1735451725939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735451725939</updated>
+      <workItem from="1735451727002" duration="820000" />
+      <workItem from="1736330324625" duration="11239000" />
+      <workItem from="1736408948001" duration="11723000" />
+      <workItem from="1736505779063" duration="8459000" />
+      <workItem from="1736595319154" duration="766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
