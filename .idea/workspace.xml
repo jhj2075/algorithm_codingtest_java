@@ -5,32 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_codingtest_java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_10_11003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_11_1874.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_12_17298.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_13_2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_14_11286.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_15_2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_1_11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_2_1546.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_3_11659.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_3_11659_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_4_11660.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_5_10986.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_6_2018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_7_1940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_8_1253.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_9_12891.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_16_1377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_17_1427.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_18_11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_18_11399_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main_15_2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_15_2750.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +53,10 @@
     "Application.Main_12_17298.executor": "Run",
     "Application.Main_13_2164.executor": "Run",
     "Application.Main_14_11286.executor": "Run",
+    "Application.Main_15_2750.executor": "Run",
+    "Application.Main_16_1377.executor": "Run",
+    "Application.Main_17_1427.executor": "Run",
+    "Application.Main_18_11399.executor": "Run",
     "Application.Main_6_2018.executor": "Run",
     "Application.Main_7_1940.executor": "Run",
     "Application.Main_8_1253.executor": "Run",
@@ -91,37 +75,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_14_11286">
-    <configuration name="Main_10_11003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_10_11003" />
+  <component name="RunManager" selected="Application.Main_18_11399">
+    <configuration name="Main_15_2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_15_2750" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_11_1874" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_11_1874" />
+    <configuration name="Main_16_1377" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_16_1377" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_12_17298" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_12_17298" />
+    <configuration name="Main_17_1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_17_1427" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_13_2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_13_2164" />
+    <configuration name="Main_18_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_18_11399" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_14_11286" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_14_11286" />
+    <configuration name="Main_18_11399_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_18_11399_2" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_14_11286" />
-        <item itemvalue="Application.Main_13_2164" />
-        <item itemvalue="Application.Main_12_17298" />
-        <item itemvalue="Application.Main_11_1874" />
-        <item itemvalue="Application.Main_10_11003" />
+        <item itemvalue="Application.Main_18_11399" />
+        <item itemvalue="Application.Main_18_11399_2" />
+        <item itemvalue="Application.Main_17_1427" />
+        <item itemvalue="Application.Main_16_1377" />
+        <item itemvalue="Application.Main_15_2750" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +141,7 @@
       <workItem from="1736330324625" duration="11239000" />
       <workItem from="1736408948001" duration="11723000" />
       <workItem from="1736505779063" duration="8459000" />
-      <workItem from="1736595319154" duration="766000" />
+      <workItem from="1736595319154" duration="11409000" />
     </task>
     <servers />
   </component>
