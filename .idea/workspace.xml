@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_16_1377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_17_1427.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_18_11399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_18_11399_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_19_11004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_20_2751.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_21_1517.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_22_10989.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_15_2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_15_2750.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,9 @@
     "Application.Main_16_1377.executor": "Run",
     "Application.Main_17_1427.executor": "Run",
     "Application.Main_18_11399.executor": "Run",
+    "Application.Main_19_11004.executor": "Run",
+    "Application.Main_21_1517.executor": "Run",
+    "Application.Main_22_10989.executor": "Run",
     "Application.Main_6_2018.executor": "Run",
     "Application.Main_7_1940.executor": "Run",
     "Application.Main_8_1253.executor": "Run",
@@ -71,32 +74,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/flg989/codingtest/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_18_11399">
-    <configuration name="Main_15_2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_15_2750" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_16_1377" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_16_1377" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_17_1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_17_1427" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main_22_10989">
     <configuration name="Main_18_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_18_11399" />
       <module name="codingtest" />
@@ -111,13 +93,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_19_11004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_19_11004" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_21_1517" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_21_1517" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_22_10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_22_10989" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_22_10989" />
+        <item itemvalue="Application.Main_21_1517" />
+        <item itemvalue="Application.Main_19_11004" />
         <item itemvalue="Application.Main_18_11399" />
         <item itemvalue="Application.Main_18_11399_2" />
-        <item itemvalue="Application.Main_17_1427" />
-        <item itemvalue="Application.Main_16_1377" />
-        <item itemvalue="Application.Main_15_2750" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,8 @@
       <workItem from="1736330324625" duration="11239000" />
       <workItem from="1736408948001" duration="11723000" />
       <workItem from="1736505779063" duration="8459000" />
-      <workItem from="1736595319154" duration="11409000" />
+      <workItem from="1736595319154" duration="11605000" />
+      <workItem from="1736676448593" duration="12624000" />
     </task>
     <servers />
   </component>
