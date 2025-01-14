@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-// 정렬 - 신기한 소수 찾기
+// 탐색 - 신기한 소수 찾기
 public class Main_24_2023 {
     public static int n;
     public static void main(String[] args) {
