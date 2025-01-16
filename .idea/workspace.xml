@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_26_1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_27_2178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_28_1167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_29_1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_36_1541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_37_1929.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_24_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_24_2023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_25_13023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_25_13023.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +63,14 @@
     "Application.Main_25_13023.executor": "Run",
     "Application.Main_26_1260.executor": "Run",
     "Application.Main_27_2178.executor": "Run",
+    "Application.Main_29_1920.executor": "Run",
+    "Application.Main_36_1541.executor": "Run",
+    "Application.Main_37_1929.executor": "Run",
     "Application.Main_6_2018.executor": "Run",
     "Application.Main_7_1940.executor": "Run",
     "Application.Main_8_1253.executor": "Run",
     "Application.Main_9_12891.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -84,35 +85,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_27_2178">
-    <configuration name="Main_23_11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_23_11724" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_24_2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_24_2023" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_25_13023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_25_13023" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_26_1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_26_1260" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main_37_1929">
     <configuration name="Main_27_2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_27_2178" />
       <module name="codingtest" />
@@ -120,13 +93,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_29_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_29_1920" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_36_1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_36_1541" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_37_1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_37_1929" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_37_1929" />
+        <item itemvalue="Application.Main_36_1541" />
+        <item itemvalue="Application.Main_29_1920" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main_27_2178" />
-        <item itemvalue="Application.Main_26_1260" />
-        <item itemvalue="Application.Main_25_13023" />
-        <item itemvalue="Application.Main_24_2023" />
-        <item itemvalue="Application.Main_23_11724" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +155,8 @@
       <workItem from="1736676448593" duration="12976000" />
       <workItem from="1736773120149" duration="7077000" />
       <workItem from="1736856044392" duration="12432000" />
+      <workItem from="1736878430848" duration="38000" />
+      <workItem from="1737020763666" duration="6103000" />
     </task>
     <servers />
   </component>
