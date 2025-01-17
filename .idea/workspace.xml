@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_29_1920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_36_1541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_37_1929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_50_1717.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_54_1516.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_56_1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_58_1854.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_59_11657.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +65,18 @@
     "Application.Main_25_13023.executor": "Run",
     "Application.Main_26_1260.executor": "Run",
     "Application.Main_27_2178.executor": "Run",
+    "Application.Main_28_1167.executor": "Run",
     "Application.Main_29_1920.executor": "Run",
     "Application.Main_36_1541.executor": "Run",
     "Application.Main_37_1929.executor": "Run",
+    "Application.Main_50_1717.executor": "Run",
+    "Application.Main_54_1516.executor": "Run",
+    "Application.Main_56_1753 (1).executor": "Run",
+    "Application.Main_56_1753 (2).executor": "Run",
+    "Application.Main_56_1753 (3).executor": "Run",
+    "Application.Main_56_1753.executor": "Run",
+    "Application.Main_58_1854.executor": "Run",
+    "Application.Main_59_11657.executor": "Run",
     "Application.Main_6_2018.executor": "Run",
     "Application.Main_7_1940.executor": "Run",
     "Application.Main_8_1253.executor": "Run",
@@ -85,37 +96,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_37_1929">
-    <configuration name="Main_27_2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_27_2178" />
+  <component name="RunManager" selected="Application.Main_59_11657">
+    <configuration name="Main_28_1167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_28_1167" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_29_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_29_1920" />
+    <configuration name="Main_56_1753 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_56_1753" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_36_1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_36_1541" />
+    <configuration name="Main_56_1753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_56_1753" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_37_1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_37_1929" />
+    <configuration name="Main_58_1854" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_58_1854" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+    <configuration name="Main_59_11657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_59_11657" />
       <module name="codingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_37_1929" />
-        <item itemvalue="Application.Main_36_1541" />
-        <item itemvalue="Application.Main_29_1920" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main_27_2178" />
+        <item itemvalue="Application.Main_59_11657" />
+        <item itemvalue="Application.Main_58_1854" />
+        <item itemvalue="Application.Main_56_1753" />
+        <item itemvalue="Application.Main_28_1167" />
+        <item itemvalue="Application.Main_56_1753 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +167,9 @@
       <workItem from="1736773120149" duration="7077000" />
       <workItem from="1736856044392" duration="12432000" />
       <workItem from="1736878430848" duration="38000" />
-      <workItem from="1737020763666" duration="6103000" />
+      <workItem from="1737020763666" duration="6276000" />
+      <workItem from="1737051771901" duration="126000" />
+      <workItem from="1737097456778" duration="19597000" />
     </task>
     <servers />
   </component>
