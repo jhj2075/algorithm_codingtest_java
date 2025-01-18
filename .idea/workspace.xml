@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_50_1717.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_54_1516.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_56_1753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_58_1854.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_59_11657.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_61_11404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_64_1197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_71_2042.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jhj2075"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jhj2075/algorithm_codingtest_java.git",
+    "accountId": "a6f570c6-f5d7-4c6e-a719-94d45fa447c9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -77,47 +87,32 @@
     "Application.Main_56_1753.executor": "Run",
     "Application.Main_58_1854.executor": "Run",
     "Application.Main_59_11657.executor": "Run",
+    "Application.Main_61_11404.executor": "Run",
+    "Application.Main_64_1197.executor": "Run",
     "Application.Main_6_2018.executor": "Run",
+    "Application.Main_71_2042.executor": "Run",
     "Application.Main_7_1940.executor": "Run",
     "Application.Main_8_1253.executor": "Run",
     "Application.Main_9_12891.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/algorithm_codingtest_java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/flg989/codingtest/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_59_11657">
-    <configuration name="Main_28_1167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_28_1167" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_56_1753 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_56_1753" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_56_1753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_56_1753" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main_71_2042">
     <configuration name="Main_58_1854" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_58_1854" />
       <module name="codingtest" />
@@ -132,21 +127,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_61_11404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_61_11404" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_64_1197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_64_1197" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_71_2042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_71_2042" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_71_2042" />
+        <item itemvalue="Application.Main_64_1197" />
+        <item itemvalue="Application.Main_61_11404" />
         <item itemvalue="Application.Main_59_11657" />
         <item itemvalue="Application.Main_58_1854" />
-        <item itemvalue="Application.Main_56_1753" />
-        <item itemvalue="Application.Main_28_1167" />
-        <item itemvalue="Application.Main_56_1753 (3)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
       </set>
     </attachedChunks>
   </component>
@@ -170,6 +186,7 @@
       <workItem from="1737020763666" duration="6276000" />
       <workItem from="1737051771901" duration="126000" />
       <workItem from="1737097456778" duration="19597000" />
+      <workItem from="1737189264103" duration="14168000" />
     </task>
     <servers />
   </component>
