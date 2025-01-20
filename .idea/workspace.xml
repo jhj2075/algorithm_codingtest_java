@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_75_11438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_81_1722.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_82_1256.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main_75_11438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_75_11438.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,92 +48,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main10986.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main11659.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main11659_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main11660.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main11720.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1546.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_10_11003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_11_1874.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_12_17298.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_13_2164.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_14_11286.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_15_2750.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_16_1377.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_17_1427.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_18_11399.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_19_11004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_21_1517.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_22_10989.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_23_11724.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_24_2023.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_25_13023.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_26_1260.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_27_2178.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_28_1167.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_29_1920.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_36_1541.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_37_1929.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_50_1717.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_54_1516.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_56_1753 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_56_1753 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_56_1753 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_56_1753.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_58_1854.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_59_11657.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_61_11404.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_64_1197.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_6_2018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_71_2042.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_7_1940.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_8_1253.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_9_12891.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/algorithm_codingtest_java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/flg989/codingtest/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Debug",
+    "Application.Main10986.executor": "Run",
+    "Application.Main11659.executor": "Run",
+    "Application.Main11659_2.executor": "Run",
+    "Application.Main11660.executor": "Run",
+    "Application.Main11720.executor": "Run",
+    "Application.Main1546.executor": "Run",
+    "Application.Main_10_11003.executor": "Run",
+    "Application.Main_11_1874.executor": "Run",
+    "Application.Main_12_17298.executor": "Run",
+    "Application.Main_13_2164.executor": "Run",
+    "Application.Main_14_11286.executor": "Run",
+    "Application.Main_15_2750.executor": "Run",
+    "Application.Main_16_1377.executor": "Run",
+    "Application.Main_17_1427.executor": "Run",
+    "Application.Main_18_11399.executor": "Run",
+    "Application.Main_19_11004.executor": "Run",
+    "Application.Main_21_1517.executor": "Run",
+    "Application.Main_22_10989.executor": "Run",
+    "Application.Main_23_11724.executor": "Run",
+    "Application.Main_24_2023.executor": "Run",
+    "Application.Main_25_13023.executor": "Run",
+    "Application.Main_26_1260.executor": "Run",
+    "Application.Main_27_2178.executor": "Run",
+    "Application.Main_28_1167.executor": "Run",
+    "Application.Main_29_1920.executor": "Run",
+    "Application.Main_36_1541.executor": "Run",
+    "Application.Main_37_1929.executor": "Run",
+    "Application.Main_50_1717.executor": "Run",
+    "Application.Main_54_1516.executor": "Run",
+    "Application.Main_56_1753 (1).executor": "Run",
+    "Application.Main_56_1753 (2).executor": "Run",
+    "Application.Main_56_1753 (3).executor": "Run",
+    "Application.Main_56_1753.executor": "Run",
+    "Application.Main_58_1854.executor": "Run",
+    "Application.Main_59_11657.executor": "Run",
+    "Application.Main_61_11404.executor": "Run",
+    "Application.Main_64_1197.executor": "Run",
+    "Application.Main_6_2018.executor": "Run",
+    "Application.Main_71_2042.executor": "Run",
+    "Application.Main_75_11438.executor": "Debug",
+    "Application.Main_7_1940.executor": "Run",
+    "Application.Main_81_1722.executor": "Debug",
+    "Application.Main_82_1256.executor": "Run",
+    "Application.Main_8_1253.executor": "Run",
+    "Application.Main_9_12891.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/algorithm_codingtest_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/flg989/codingtest/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main_71_2042">
-    <configuration name="Main_58_1854" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_58_1854" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_59_11657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_59_11657" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_61_11404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_61_11404" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Main_82_1256">
     <configuration name="Main_64_1197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_64_1197" />
       <module name="codingtest" />
@@ -146,13 +130,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_75_11438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_75_11438" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_81_1722" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_81_1722" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_82_1256" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_82_1256" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_82_1256" />
+        <item itemvalue="Application.Main_81_1722" />
+        <item itemvalue="Application.Main_75_11438" />
         <item itemvalue="Application.Main_71_2042" />
         <item itemvalue="Application.Main_64_1197" />
-        <item itemvalue="Application.Main_61_11404" />
-        <item itemvalue="Application.Main_59_11657" />
-        <item itemvalue="Application.Main_58_1854" />
       </list>
     </recent_temporary>
   </component>
