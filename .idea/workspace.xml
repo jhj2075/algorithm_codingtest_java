@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_81_1722.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main_82_1256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_84_1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_86_2193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_90_9252.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_75_11438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_75_11438.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,10 @@
     "Application.Main_7_1940.executor": "Run",
     "Application.Main_81_1722.executor": "Debug",
     "Application.Main_82_1256.executor": "Run",
+    "Application.Main_84_1463.executor": "Run",
+    "Application.Main_86_2193.executor": "Run",
     "Application.Main_8_1253.executor": "Run",
+    "Application.Main_90_9252.executor": "Run",
     "Application.Main_9_12891.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Test.executor": "Run",
@@ -115,28 +118,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_82_1256">
-    <configuration name="Main_64_1197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_64_1197" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_71_2042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_71_2042" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_75_11438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_75_11438" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main_90_9252">
     <configuration name="Main_81_1722" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_81_1722" />
       <module name="codingtest" />
@@ -151,13 +133,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_84_1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_84_1463" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_86_2193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_86_2193" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_90_9252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_90_9252" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_90_9252" />
+        <item itemvalue="Application.Main_84_1463" />
+        <item itemvalue="Application.Main_86_2193" />
         <item itemvalue="Application.Main_82_1256" />
         <item itemvalue="Application.Main_81_1722" />
-        <item itemvalue="Application.Main_75_11438" />
-        <item itemvalue="Application.Main_71_2042" />
-        <item itemvalue="Application.Main_64_1197" />
       </list>
     </recent_temporary>
   </component>
