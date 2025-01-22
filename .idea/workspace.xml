@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7c0e548-e0a2-4f82-a905-58b06461e474" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/P_K번째수/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_가장큰수/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_같은숫자는싫어/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_타켓넘버/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_폰켓몬/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_96_14003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_96_14003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jhj2075/algorithm_codingtest_java.git&quot;,
-    &quot;accountId&quot;: &quot;a6f570c6-f5d7-4c6e-a719-94d45fa447c9&quot;
+    &quot;accountId&quot;: &quot;d46eca83-f7fb-45c7-8f18-cdf8442c3c7d&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,78 +50,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Debug",
-    "Application.Main10986.executor": "Run",
-    "Application.Main11659.executor": "Run",
-    "Application.Main11659_2.executor": "Run",
-    "Application.Main11660.executor": "Run",
-    "Application.Main11720.executor": "Run",
-    "Application.Main1546.executor": "Run",
-    "Application.Main_10_11003.executor": "Run",
-    "Application.Main_11_1874.executor": "Run",
-    "Application.Main_12_17298.executor": "Run",
-    "Application.Main_13_2164.executor": "Run",
-    "Application.Main_14_11286.executor": "Run",
-    "Application.Main_15_2750.executor": "Run",
-    "Application.Main_16_1377.executor": "Run",
-    "Application.Main_17_1427.executor": "Run",
-    "Application.Main_18_11399.executor": "Run",
-    "Application.Main_19_11004.executor": "Run",
-    "Application.Main_21_1517.executor": "Run",
-    "Application.Main_22_10989.executor": "Run",
-    "Application.Main_23_11724.executor": "Run",
-    "Application.Main_24_2023.executor": "Run",
-    "Application.Main_25_13023.executor": "Run",
-    "Application.Main_26_1260.executor": "Run",
-    "Application.Main_27_2178.executor": "Run",
-    "Application.Main_28_1167.executor": "Run",
-    "Application.Main_29_1920.executor": "Run",
-    "Application.Main_36_1541.executor": "Run",
-    "Application.Main_37_1929.executor": "Run",
-    "Application.Main_50_1717.executor": "Run",
-    "Application.Main_54_1516.executor": "Run",
-    "Application.Main_56_1753 (1).executor": "Run",
-    "Application.Main_56_1753 (2).executor": "Run",
-    "Application.Main_56_1753 (3).executor": "Run",
-    "Application.Main_56_1753.executor": "Run",
-    "Application.Main_58_1854.executor": "Run",
-    "Application.Main_59_11657.executor": "Run",
-    "Application.Main_61_11404.executor": "Run",
-    "Application.Main_64_1197.executor": "Run",
-    "Application.Main_6_2018.executor": "Run",
-    "Application.Main_71_2042.executor": "Run",
-    "Application.Main_75_11438.executor": "Debug",
-    "Application.Main_7_1940.executor": "Run",
-    "Application.Main_81_1722.executor": "Debug",
-    "Application.Main_82_1256.executor": "Run",
-    "Application.Main_84_1463.executor": "Run",
-    "Application.Main_86_2193.executor": "Run",
-    "Application.Main_8_1253.executor": "Run",
-    "Application.Main_90_9252.executor": "Run",
-    "Application.Main_94_11049 (1).executor": "Run",
-    "Application.Main_94_11049.executor": "Run",
-    "Application.Main_95_2098.executor": "Run",
-    "Application.Main_96_14003.executor": "Run",
-    "Application.Main_9_12891.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/algorithm_codingtest_java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/flg989/codingtest/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main10986.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main11659.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main11659_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main11660.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main11720.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1546.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_10_11003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_11_1874.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_12_17298.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_13_2164.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_14_11286.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15_2750.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_16_1377.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_17_1427.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_18_11399.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_19_11004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_21_1517.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_22_10989.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_23_11724.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_24_2023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_25_13023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_26_1260.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_27_2178.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_28_1167.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_29_1920.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_36_1541.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_37_1929.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_50_1717.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_54_1516.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_56_1753 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_56_1753 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_56_1753 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_56_1753.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_58_1854.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_59_11657.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_61_11404.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_64_1197.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_6_2018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_71_2042.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_75_11438.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main_7_1940.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_81_1722.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main_82_1256.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_84_1463.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_86_2193.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_8_1253.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_90_9252.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_94_11049 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_94_11049.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_95_2098.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_96_14003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_9_12891.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/algorithm_codingtest_java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/flg989/codingtest/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main_96_14003">
@@ -169,8 +173,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -197,6 +201,7 @@
       <workItem from="1737189264103" duration="14804000" />
       <workItem from="1737265331984" duration="47000" />
       <workItem from="1737265391116" duration="1064000" />
+      <workItem from="1737509641211" duration="4275000" />
     </task>
     <servers />
   </component>
