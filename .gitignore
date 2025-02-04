@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-CodingTest[1-5].java
+src/CodingTest[1-5].java
