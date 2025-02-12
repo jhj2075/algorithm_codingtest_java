@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="859fdfee-cf11-443f-b91a-0b1cf54a6ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main_32_11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_33_1715.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main_34_1744.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,8 @@
   "keyToString": {
     "Application.Main_31_1300.executor": "Run",
     "Application.Main_32_11047.executor": "Run",
+    "Application.Main_33_1715.executor": "Run",
+    "Application.Main_34_1744.executor": "Run",
     "Application.Solution (1).executor": "Debug",
     "Application.Solution.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -52,7 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_32_11047">
+  <component name="RunManager" selected="Application.Main_34_1744">
     <configuration name="Main_31_1300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main_31_1300" />
       <module name="codingtest" />
@@ -67,6 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_33_1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_33_1715" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_34_1744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_34_1744" />
+      <module name="codingtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="codingtest" />
@@ -76,6 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_34_1744" />
+        <item itemvalue="Application.Main_33_1715" />
         <item itemvalue="Application.Main_32_11047" />
         <item itemvalue="Application.Main_31_1300" />
         <item itemvalue="Application.Solution" />
@@ -104,11 +123,19 @@
       <workItem from="1737692589940" duration="3210000" />
       <workItem from="1737898062045" duration="2376000" />
       <workItem from="1738675935503" duration="2343000" />
-      <workItem from="1739278700117" duration="687000" />
+      <workItem from="1739278700117" duration="3370000" />
+      <workItem from="1739369156486" duration="1768000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mQueue" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
