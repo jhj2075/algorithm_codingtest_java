@@ -5,87 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="859fdfee-cf11-443f-b91a-0b1cf54a6ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/sw_maestro_prepare/Main_1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/sw_maestro_prepare/Main_2292.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/P_분수의덧셈/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/sw_maestro_prepare/Main_1316.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_10_11003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_10_11003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_11_1874.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_11_1874.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_12_17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_12_17298.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_13_2164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_13_2164.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_14_11286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_14_11286.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_15_2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_15_2750.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_16_1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_16_1377.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_17_1427.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_17_1427.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_18_11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_18_11399.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_18_11399_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_18_11399_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_19_11004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_19_11004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_1_11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_1_11720.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_20_2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_20_2751.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_21_1517.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_21_1517.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_22_10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_22_10989.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_23_11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_23_11724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_24_2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_24_2023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_25_13023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_25_13023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_26_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_26_1260.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_27_2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_27_2178.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_28_1167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_28_1167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_29_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_29_1920.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_2_1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_2_1546.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_30_2343.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_30_2343.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_31_1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_31_1300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_32_11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_32_11047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_33_1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_33_1715.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_34_1744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_34_1744.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_36_1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_36_1541.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_37_1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_37_1929.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_3_11659.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_3_11659.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_3_11659_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_3_11659_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_4_11660.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_4_11660.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_50_1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_50_1717.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_54_1516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_54_1516.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_56_1753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_56_1753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_58_1854.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_58_1854.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_59_11657.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_59_11657.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_5_10986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_5_10986.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_61_11404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_61_11404.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_64_1197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_64_1197.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_6_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_6_2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_71_2042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_71_2042.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_75_11438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_75_11438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_7_1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_7_1940.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_81_1722.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_81_1722.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_82_1256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_82_1256.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_84_1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_84_1463.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_86_2193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_86_2193.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_8_1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_8_1253.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_90_9252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_90_9252.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_94_11049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_94_11049.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_95_2098.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_95_2098.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_96_14003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_96_14003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main_9_12891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_9_12891.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_K번째수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_K번째수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_hIndex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_hIndex/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_가장큰수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_가장큰수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_같은숫자는싫어/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_같은숫자는싫어/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_체육복/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_체육복/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_타켓넘버/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_타켓넘버/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P_폰켓몬/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/P_폰켓몬/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_3월에태어난여성회원목록출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_3월에태어난여성회원목록출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_가격이제일비싼식품의정보출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_가격이제일비싼식품의정보출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_가장비싼상품구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_가장비싼상품구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_경기도에위치한식품창고목록출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_경기도에위치한식품창고목록출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_과일로만든아이스크림고르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_과일로만든아이스크림고르기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_대여횟수가많은자동차들의월별대여횟수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_대여횟수가많은자동차들의월별대여횟수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_대장균의크기에따라분류하기1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_대장균의크기에따라분류하기1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_물고기종류별대어찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_물고기종류별대어찾기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_서울에위치한식당목록출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_서울에위치한식당목록출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_자동차종류별특정옵션이포함된자동차수구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_자동차종류별특정옵션이포함된자동차수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_조건에맞는도서와저자리스트출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_조건에맞는도서와저자리스트출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_최댓값구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_최댓값구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_특정기간동안대여가능한자동차들의대여비용구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_특정기간동안대여가능한자동차들의대여비용구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_평균일일대여요금구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_평균일일대여요금구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SQL/P_흉부외과또는일반외과의사목록출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_흉부외과또는일반외과의사목록출력하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main_1157.executor": "Run",
+    "Application.Main_1316.executor": "Run",
     "Application.Main_2292.executor": "Run",
     "Application.Main_31_1300.executor": "Run",
     "Application.Main_32_11047.executor": "Run",
@@ -135,9 +57,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_1157">
+  <component name="RunManager" selected="Application.Main_1316">
     <configuration name="Main_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.sw_maestro_prepare.Main_1157" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.sw_maestro_prepare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_1316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.sw_maestro_prepare.Main_1316" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
@@ -162,13 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_32_11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Do_it.Main_32_11047" />
-      <module name="codingtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main_33_1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.Do_it.Main_33_1715" />
       <module name="codingtest" />
@@ -185,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_1316" />
         <item itemvalue="Application.Main_1157" />
         <item itemvalue="Application.Main_2292" />
         <item itemvalue="Application.Main_34_1744" />
         <item itemvalue="Application.Main_33_1715" />
-        <item itemvalue="Application.Main_32_11047" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +149,7 @@
       <workItem from="1739526610303" duration="3061000" />
       <workItem from="1739616065123" duration="1829000" />
       <workItem from="1739702164267" duration="1940000" />
-      <workItem from="1739777483369" duration="4854000" />
+      <workItem from="1739777483369" duration="7704000" />
     </task>
     <servers />
   </component>
