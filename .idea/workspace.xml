@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="859fdfee-cf11-443f-b91a-0b1cf54a6ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Do_it/Main_35_1931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/P_올바른괄호/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/SQL/P_주문량이많은아이스크림들조회하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P_모의고사/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P_최소직사각형/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P_카펫/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P_프로세스/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jhj2075"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jhj2075/algorithm_codingtest_java.git",
+    "accountId": "d46eca83-f7fb-45c7-8f18-cdf8442c3c7d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -36,32 +49,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main_1157.executor": "Run",
-    "Application.Main_1316.executor": "Run",
-    "Application.Main_2292.executor": "Run",
-    "Application.Main_31_1300.executor": "Run",
-    "Application.Main_32_11047.executor": "Run",
-    "Application.Main_33_1715.executor": "Run",
-    "Application.Main_34_1744.executor": "Run",
-    "Application.Main_35_1931 (1).executor": "Run",
-    "Application.Main_35_1931 (2).executor": "Run",
-    "Application.Main_35_1931.executor": "Run",
-    "Application.Solution (1).executor": "Debug",
-    "Application.Solution.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main_1157.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_1316.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_2292.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_31_1300.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_32_11047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_33_1715.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_34_1744.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_35_1931 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_35_1931 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_35_1931.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main_35_1931 (2)">
     <configuration name="Main_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.sw_maestro_prepare.Main_1157" />
@@ -141,8 +154,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -170,6 +183,7 @@
       <workItem from="1739867294608" duration="4561000" />
       <workItem from="1739982666199" duration="2592000" />
       <workItem from="1740049170313" duration="4256000" />
+      <workItem from="1740138989677" duration="3346000" />
     </task>
     <servers />
   </component>
