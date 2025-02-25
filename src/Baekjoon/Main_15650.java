@@ -2,6 +2,7 @@ package Baekjoon;
 
 import java.util.Scanner;
 
+
 // N과 M(2) (백트래킹)
 public class Main_15650 {
     static int n;
