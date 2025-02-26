@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 
-// N과 M(2) (백트래킹, 시간초과 때문에 sout이 아닌 bw로 출력)
+// N과 M(3) (백트래킹, 시간초과 때문에 sout이 아닌 bw로 출력)
 public class Main_15651 {
     static int n;
     static int m;
