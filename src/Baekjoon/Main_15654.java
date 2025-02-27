@@ -3,7 +3,7 @@ package Baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_15653 {
+public class Main_15654 {
     static int n;
     static int m;
     static int[] input;
