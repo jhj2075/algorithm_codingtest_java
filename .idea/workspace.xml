@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="859fdfee-cf11-443f-b91a-0b1cf54a6ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main_10773.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main_15655.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main_15656.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main_1152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon/Main_15654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/Main_15654.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main_10773.executor": "Run",
+    "Application.Main_1152.executor": "Run",
     "Application.Main_1157.executor": "Run",
     "Application.Main_1316.executor": "Run",
     "Application.Main_15649.executor": "Run",
@@ -82,7 +80,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_10773">
+  <component name="RunManager" selected="Application.Main_1152">
     <configuration name="Main_10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_10773" />
       <module name="codingtest" />
@@ -96,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_15652" />
+    <configuration name="Main_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_1152" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_1152" />
         <item itemvalue="Application.Main_10773" />
         <item itemvalue="Application.Main_15656" />
         <item itemvalue="Application.Main_15655" />
         <item itemvalue="Application.Main_15654" />
-        <item itemvalue="Application.Main_15652" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +193,8 @@
       <workItem from="1740488260148" duration="5542000" />
       <workItem from="1740578749155" duration="1426000" />
       <workItem from="1740666950520" duration="1275000" />
-      <workItem from="1740737953983" duration="2897000" />
+      <workItem from="1740737953983" duration="2970000" />
+      <workItem from="1740833525812" duration="1722000" />
     </task>
     <servers />
   </component>
