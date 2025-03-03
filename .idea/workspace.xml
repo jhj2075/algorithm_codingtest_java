@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="859fdfee-cf11-443f-b91a-0b1cf54a6ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main_9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main_11478.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main_10773.executor": "Run",
+    "Application.Main_11478.executor": "Run",
     "Application.Main_1152.executor": "Run",
     "Application.Main_1157.executor": "Run",
     "Application.Main_1316.executor": "Run",
@@ -66,7 +67,7 @@
     "Application.Main_35_1931 (1).executor": "Run",
     "Application.Main_35_1931 (2).executor": "Run",
     "Application.Main_35_1931.executor": "Run",
-    "Application.Main_9012.executor": "Debug",
+    "Application.Main_9012.executor": "Run",
     "Application.Solution (1).executor": "Debug",
     "Application.Solution.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +82,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_9012">
+  <component name="RunManager" selected="Application.Main_11478">
     <configuration name="Main_10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_10773" />
       <module name="codingtest" />
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_1152" />
+    <configuration name="Main_11478" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_11478" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_15655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_15655" />
+    <configuration name="Main_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_1152" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_11478" />
         <item itemvalue="Application.Main_9012" />
         <item itemvalue="Application.Main_1152" />
         <item itemvalue="Application.Main_10773" />
         <item itemvalue="Application.Main_15656" />
-        <item itemvalue="Application.Main_15655" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +197,8 @@
       <workItem from="1740666950520" duration="1275000" />
       <workItem from="1740737953983" duration="2970000" />
       <workItem from="1740833525812" duration="2463000" />
-      <workItem from="1740895217283" duration="1264000" />
+      <workItem from="1740895217283" duration="1531000" />
+      <workItem from="1741000819291" duration="2105000" />
     </task>
     <servers />
   </component>
@@ -204,15 +206,6 @@
     <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Baekjoon/Main_9012.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="mQueue" />
