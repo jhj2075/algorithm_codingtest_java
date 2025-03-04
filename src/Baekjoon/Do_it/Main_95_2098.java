@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+
+// 동적 계획법 - 외판원의 순회 경로 짜기
 public class Main_95_2098 {
     private static final int INF = 1000000 * 16 + 1;
     public static int n;

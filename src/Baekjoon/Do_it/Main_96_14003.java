@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+
+// 동적 계획법 - 가장 길게 증가하는 부분 수열 찾기
 public class Main_96_14003 {
     static int n, maxLength;
     static int[] b = new int[1000001];

@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+
+// 동적 계획법 - 최장 공통 부분 수열 찾기
 public class Main_90_9252 {
     public static char[] a;
     public static char[] b;

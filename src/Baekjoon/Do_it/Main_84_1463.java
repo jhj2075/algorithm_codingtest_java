@@ -2,6 +2,8 @@ package Baekjoon.Do_it;
 
 import java.util.Scanner;
 
+
+// 동적 계획법 - 정수를 1로 만들기
 public class Main_84_1463 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
