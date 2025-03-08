@@ -3,6 +3,8 @@ package Baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+// N과 M(8) (백트래킹)
 public class Main_15657 {
     static int n;
     static int m;
