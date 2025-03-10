@@ -9,7 +9,7 @@ public class Main_41_11689 {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
         long ans = n;
-        for (int i = 2; i < Math.sqrt(n); i++) {
+        for (long i = 2; i < Math.sqrt(n); i++) {
             if (n % i == 0){
                 ans = ans - (ans / i);
                 while (n % i == 0){
