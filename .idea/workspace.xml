@@ -46,56 +46,56 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Main_10773.executor": "Run",
-    "Application.Main_11478.executor": "Run",
-    "Application.Main_1152.executor": "Run",
-    "Application.Main_1157.executor": "Run",
-    "Application.Main_1316.executor": "Run",
-    "Application.Main_15649.executor": "Run",
-    "Application.Main_15651.executor": "Run",
-    "Application.Main_15652.executor": "Run",
-    "Application.Main_15653.executor": "Run",
-    "Application.Main_15655.executor": "Run",
-    "Application.Main_15656.executor": "Run",
-    "Application.Main_15657.executor": "Run",
-    "Application.Main_2108.executor": "Run",
-    "Application.Main_2292.executor": "Run",
-    "Application.Main_2745.executor": "Run",
-    "Application.Main_31_1300.executor": "Run",
-    "Application.Main_32_11047.executor": "Run",
-    "Application.Main_33_1715.executor": "Run",
-    "Application.Main_34_1744.executor": "Run",
-    "Application.Main_35_1931 (1).executor": "Run",
-    "Application.Main_35_1931 (2).executor": "Run",
-    "Application.Main_35_1931.executor": "Run",
-    "Application.Main_38_1456.executor": "Run",
-    "Application.Main_39_1747.executor": "Run",
-    "Application.Main_9012.executor": "Run",
-    "Application.Main_9251.executor": "Run",
-    "Application.Solution (1).executor": "Debug",
-    "Application.Solution.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_10773.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_11478.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_1152.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_1157.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_1316.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15649.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15651.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15652.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15653.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15655.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15656.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_15657.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_2108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_2292.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_2745.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_31_1300.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_32_11047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_33_1715.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_34_1744.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_35_1931 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_35_1931 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_35_1931.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_38_1456.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_39_1747.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_9012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_9251.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main_40_1016">
-    <configuration name="Main_15657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_15657" />
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Do_it.Main" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="PATTERN" value="Baekjoon.Do_it.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_2108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_2108" />
+    <configuration name="Main_15657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main_15657" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main_40_1016" />
         <item itemvalue="Application.Main_39_1747" />
         <item itemvalue="Application.Main_15657" />
         <item itemvalue="Application.Main_2745" />
-        <item itemvalue="Application.Main_2108" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,8 @@
       <workItem from="1741140088973" duration="4676000" />
       <workItem from="1741156956379" duration="2842000" />
       <workItem from="1741421662653" duration="2118000" />
-      <workItem from="1741526563342" duration="3497000" />
+      <workItem from="1741526563342" duration="3633000" />
+      <workItem from="1741613340003" duration="2032000" />
     </task>
     <servers />
   </component>
