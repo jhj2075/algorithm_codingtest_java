@@ -1,10 +1,10 @@
 package Baekjoon.Do_it;
 
-import java.io.BufferedWriter;
-import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+// 정수론 - 칵테일 만들
 public class Main_44_1033 {
     static ArrayList<cNode>[] A;
     static long lcm;
@@ -12,7 +12,6 @@ public class Main_44_1033 {
     static long[] D;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int N = sc.nextInt();
         A = new ArrayList[N];
         visited = new boolean[N];
