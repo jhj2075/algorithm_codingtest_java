@@ -2,7 +2,9 @@ package Baekjoon.Do_it;
 
 import java.util.Scanner;
 
-public class Main {
+
+// 정수론 - Ax + By = C
+public class Main_45_21568 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
