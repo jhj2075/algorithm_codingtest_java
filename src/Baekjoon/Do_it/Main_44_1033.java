@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-// 정수론 - 칵테일 만들
+// 정수론 - 칵테일 만들기
 public class Main_44_1033 {
     static ArrayList<cNode>[] A;
     static long lcm;
