@@ -1,8 +1,12 @@
 package Baekjoon.Do_it;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+
+// 그래프 - 거짓말쟁이가 되긴 싫어
+public class Main_52_1043 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -28,41 +32,54 @@ public class Main {
                 knowPeople[i] = sc.nextInt();
                 // knowPeople들은 다 union
                 if (i > 0){
-                    arr[knowPeople[i]] = knowPeople[0];
+                    int aRoot = find(arr, knowPeople[i]);
+                    int bRoot = find(arr, knowPeople[0]);
+                    if (aRoot != bRoot)
+                        arr[aRoot] = bRoot;
                 }
             }
 
+            List<int[]> parties = new ArrayList<>();
             for (int i = 0; i < m; i++) {
                 int p = sc.nextInt();
                 if (p > 1) {
                     int[] participants = new int[p];
-                    boolean isThatParty = false;
                     for (int j = 0; j < p; j++) {
                         participants[j] = sc.nextInt();
-                        if (arr[participants[j]] == knowPeople[0]){
-                            isThatParty = true;
-                        }
                     }
+                    parties.add(participants);
                     // participants에 들어 있는 애 중에 knowPeople에 들어 있는 애가 하나라도 있으면 participants에 있는 애들 모두 union
-                    if (isThatParty){
-                        int root = participants[0];
-                        for (int j = 1; j < p; j++) {
-                            arr[participants[j]] = root;
-                        }
+                    for (int j = 1; j < p; j++) {
+                        int aRoot = find(arr, participants[j]);
+                        int bRoot = find(arr, participants[0]);
+                        if (aRoot != bRoot) arr[aRoot] = bRoot;
                     }
+
                 }
                 else {
-                    sc.nextInt();
+                    int[] participants = new int[1];
+                    participants[0] = sc.nextInt();
+                    parties.add(participants);
                 }
             }
-            // arr 순회하면서 knowPeople[0]가 아닌 애들 세기
+            // 여기가 문제였네 arr는 사람 수이지 파티 수가 아니잖아 파티 수를 세야지 사람 수를 세면 안됨
             int cnt = 0;
-            for (int i = 1; i <= n; i++) {
-                if (arr[i] != arr[knowPeople[0]])
-                    cnt++;
+            int truthRoot = find(arr, knowPeople[0]);
+            for (int[] participants : parties){
+                boolean isThatParty = true;
+                for (int i : participants){
+                    if (find(arr, i) == truthRoot) {
+                        isThatParty = false;
+                        break;
+                    }
+                }
+                if (isThatParty) cnt++;
             }
             System.out.println(cnt);
         }
-
+    }
+    public static int find(int[] arr, int x) {
+        if (arr[x] == x) return x;
+        return arr[x] = find(arr, arr[x]);
     }
 }
