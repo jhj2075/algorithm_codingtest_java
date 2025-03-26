@@ -2,6 +2,8 @@ package Baekjoon;
 
 import java.util.Scanner;
 
+
+// 진법 변환 (구현)
 public class Main_2745 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

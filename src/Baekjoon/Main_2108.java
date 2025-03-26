@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Stack;
 
+
+// 통계학 (구현)
 public class Main_2108 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
