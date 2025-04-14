@@ -8,7 +8,7 @@ public class Main_83_1947 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        long[] D = new long[n+1];
+        long[] D = new long[1000001];
         D[1] = 0;
         D[2] = 1;
         for (int i = 3; i <= n; i++) {
