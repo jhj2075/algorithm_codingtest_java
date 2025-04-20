@@ -12,7 +12,7 @@ public class Main_90_9252 {
     public static char[] b;
     public static long[][] d;
     public static ArrayList<Character> path;
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         a = br.readLine().toCharArray();
         b = br.readLine().toCharArray();
