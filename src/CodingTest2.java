@@ -1,24 +1,39 @@
 class CodingTest2 {
-    public int longestRoad(String road, int n) {
-        int left = 0, maxLen = 0, zeroCount = 0;
-
-        for (int right = 0; right < road.length(); right++) {
-            if (road.charAt(right) == '0') {
-                zeroCount++;  // 손상된 부분 발견 시 카운트 증가
-            }
-
-            while (zeroCount > n) {
-                if (road.charAt(left) == '0') {
-                    zeroCount--;  // 왼쪽 포인터 이동 시 손상된 부분 감소
-                }
-                left++;  // 윈도우 축소
-            }
-
-            // 현재 윈도우 크기 갱신
-            maxLen = Math.max(maxLen, right - left + 1);
+    public static int longestRoad(String road, int n) {
+        int[] arr = new int[road.length()];
+        for (int i = 0; i < road.length(); i++) {
+            arr[i] = road.toCharArray()[i] - '0';
         }
 
-        return maxLen;
+        int start = 0;
+        int end = 0;
+        int max = 0;
+        int cnt = 0;
+        while (end < road.length()){
+            if (arr[end] == 0){
+                cnt++;
+            }
+
+            while (cnt > n){
+                if (arr[start] == 0){
+                    cnt--;
+                }
+                start++;
+            }
+
+            int length = end - start + 1;
+            max = Math.max(max, length);
+
+            end++;
+        }
+
+
+        return max;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(longestRoad("111011110011111011111100011111", 3));  // ➜ 18
+        System.out.println(longestRoad("001100", 5));                        // ➜ 6
     }
 
 }
