@@ -29,9 +29,3 @@ bin/
 .DS_Store
 
 .idea/workspace.xml
-
-src/CodingTest1.java
-src/CodingTest2.java
-src/CodingTest3.java
-src/CodingTest4.java
-src/CodingTest5.java
