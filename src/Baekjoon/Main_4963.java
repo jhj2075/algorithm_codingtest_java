@@ -16,7 +16,7 @@ public class Main_4963 {
         while (true) {
             w = sc.nextInt();
             h = sc.nextInt();
-            visited = new boolean[h][w];
+            visited = new boolean[h][w]; // 배열에선 앞이 y 뒤가 x
             if (w == 0 && h == 0)
                 break;
 
