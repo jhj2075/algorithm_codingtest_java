@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 
-// 그래프 - 작업(위상 정렬)
+// 그래프 - 작업 (위상 정렬)
 public class Main_2056 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
